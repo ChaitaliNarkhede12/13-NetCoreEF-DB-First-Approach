@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CWwbFcITocAK8aN9WqU9ofQo7UgyE5EaOZiI6w1proxUb5de60Rs3OfNvs3+GTAestRdDI561Mwk3NfxKENzvw==",
+  "dgSpecHash": "P/S25n1ySbBPqddxFkTXu2e3ObAkC3SlY20XV8ny9SzMssxd4SlDCNUuY57ThT1Eygb9Ex/qtIieLLcwjS+X3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Chaitali-Git-Project\\13-NetCoreEF-DB-First-Approach\\NetCoreEFDBFirst\\NetCoreEFDBFirst\\NetCoreEFDBFirst.csproj",
+  "projectFilePath": "E:\\Chaitali-DemoProjects\\NetCoreEFDBFirst\\NetCoreEFDBFirst\\NetCoreEFDBFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
